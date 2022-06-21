@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-21T08:27:55.904550032Z"
+    description: A Helm chart for Kubernetes
+    digest: 03c593ce91f3769c915ee95dba7cab56d85842bafd4143c1bc29c3402ba9fc58
+    name: test
+    type: application
+    urls:
+    - https://github.com/deepflow-kubeplay/charts/releases/download/test-0.1.8/test-0.1.8.tgz
+    version: 0.1.8
+generated: "2022-06-21T08:27:55.904818144Z"
